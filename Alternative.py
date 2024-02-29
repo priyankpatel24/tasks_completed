@@ -21,16 +21,3 @@ for char in range(len(user_string)):
         SENTENCE +=user_string[char].lower()
 
 print (f"Your sentence as alternating characters is: {SENTENCE}")
-
-
-
-
-#split str = My-String.split()
-
-#For word in range(len(split_str)):
-#If word % 2 == 0:
-#Split_str[word] = split_str[word].lower()
-#Else:
-#Split_str[word] = split_str[word].upper()
-#JOINED_STRING = “ “.join(split_str)
-#print (f “Alternated word string: {JOINED_STRING})
