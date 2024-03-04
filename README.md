@@ -1,2 +1,2 @@
 # tasks
-different tasks I've compelted during my government funded skills bootcamp
+different tasks I've completed during my government funded skills bootcamp.
